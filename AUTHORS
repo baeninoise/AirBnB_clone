@@ -1,8 +1,5 @@
-	cat <<- 'EOH'
+# This file lists all individuals having contributed content to the repository.
 
-	EOH
 
-	echo
-
-	git log --format='%aN <%aE>' | LC_ALL=C.UTF-8 sort -u
-
+baeninoise <99394368+baeninoise@users.noreply.github.com>
+baeninoise <amandalaleye@gmail.com>
